@@ -51,8 +51,5 @@ public class Method {
         homer.setName("Homer Simpson");
         System.out.println(homer.getName());
 
-
-
-
     }
 }
